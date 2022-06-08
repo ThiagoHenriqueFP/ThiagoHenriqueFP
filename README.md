@@ -1,8 +1,11 @@
 ### Hi there 👋 I'm Thiago
 Tks for viewing my profile!
+
 ![](https://komarev.com/ghpvc/?username=ThiagoHenriqueFP&color=60007C)
+
 There are my favorities langs
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoHenriqueFP&layout=compact)](https://github.com/anuragha
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoHenriqueFP&layout=compact&hide=handlebars)](https://github.com/anuragha)
 
 <!--
 **ThiagoHenriqueFP/ThiagoHenriqueFP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
