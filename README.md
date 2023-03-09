@@ -15,4 +15,4 @@ These are the languages and frameworks i already studied and i had pratice with:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoHenriqueFP&layout=compact&hide=handlebars,cmake&theme=radical)](https://github.com/anuragha)
 
-How to reach me? You can send me a message on [linkedin](https://www.linkedin.com/in/thiagohfpereira/)!
+How to reach me? You can send a message on [linkedin](https://www.linkedin.com/in/thiagohfpereira/)!
