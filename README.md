@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Thiago
 
-I have an affinity with backend development, i mainly work with JavaScript/TypeScript stack with express and nest.js and Java with springboot, but i like frontend, as i'm learning more about when i can. I like to diversify my knowledge to many aspect of the it spectrum and philosophy in my free times.
+I have an affinity with backend development, i mainly work with JavaScript/TypeScript stack with express and nest.js and Java with springboot, but i like frontend, as i'm learning more about when i can. I like to diversify my knowledge on many aspect of the it spectrum and to study philosophy in my free times.
 
 These are the languages and frameworks i already studied and i had pratice with:
 
