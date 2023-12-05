@@ -6,12 +6,13 @@ These are the languages and frameworks i already studied and i had pratice with:
 
 :fire: JavaScript/TypeScript: Expressjs, Nestjs, Sequelize, Prisma, Reactjs, Next.js;
 
-:mortar_board: Java 11+: Spring boot 2.7/3.0
+:mortar_board: Java 11+: Spring boot 2.7/3.0+
 
 :baby: Dart: Flutter;
 
 :telescope: Miscelaneous: Nginx Server, Docker/Docker Compose/Swarm, Unix basic management.
-:cloud: aws: basic usage and knowledge
+
+:cloud: aws: [CLF-C02 certified](https://www.credly.com/badges/067689cb-a2ea-46ff-8a31-e47969b24afa/linked_in_profile)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoHenriqueFP&layout=compact&hide=handlebars,cmake&theme=radical)](https://github.com/anuragha)
 
